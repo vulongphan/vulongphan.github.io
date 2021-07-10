@@ -331,7 +331,8 @@ ul.network-icon i {
   .experience-column {
     flex: auto;
     max-width: 100%;
-    margin: auto;
+    margin-right: 10vw;
+    margin-left: 20vw;
   }
 
   .experience {
@@ -344,7 +345,9 @@ ul.network-icon i {
     max-width: 100%;
   }
   .projects-image-column img {
-    margin: auto
+    margin: auto;
+    margin-left: 15px;
+
   }
 
   .projects-description-column {
